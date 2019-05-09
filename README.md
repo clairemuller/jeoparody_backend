@@ -1,24 +1,11 @@
-# README
+# [This is Jeoparody!](https://clairemuller.github.io/jeoparody/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was built as part of Flatiron School's Web Development Immersive curriculum.
 
-Things you may want to cover:
+After learning Ruby on Rails, we were tasked with creating a SPA (Single Page Application) using vanilla JavaScript with a Rails backend.
 
-* Ruby version
+This was my very first solo project, and I wrote a [blog post](https://dev.to/clairemuller/4-things-i-learned-from-building-my-first-site-solo-1e26) discussing some important things I learned. Check it out!
 
-* System dependencies
+### Acknowledgments
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[JService](http://jservice.io/) - awesome API with over 150,000 clues spanning ~30 seasons of Jeopardy
